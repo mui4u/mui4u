@@ -4,7 +4,7 @@
   "workspaces": [
     "./src/*"
   ],
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "MUI4U Components Monorepo",
   "main": "index.js",
   "repository": "https://github.com/mui4u/mui4u.git",
