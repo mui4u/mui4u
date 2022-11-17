@@ -1,0 +1,20 @@
+{
+  "name": "@mui4u/hooks",
+  "version": "0.3.0",
+  "main": "cjs/index.js",
+  "module": "esm/index.js",
+  "types": "lib/index.d.ts",
+  "sideEffects": false,
+  "author": "Jordy Morales <dev.morales.jordy@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/mui4u/mui4u.git",
+    "type": "git",
+    "directory": "src/mui4u-hooks"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
